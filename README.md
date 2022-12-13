@@ -1,8 +1,8 @@
 # AWS-SageMaker-Studio
 All works on AWS SageMaker Studio
 
-
-
+Exploratory Data Analysis/Concept 1/SageMaker Studio/Exercise Using SageMaker Studio for EDA in Pandas/Solution:
+https://d-6c5ntrx69yhk.studio.us-east-1.sagemaker.aws/jupyter/default/lab?sagemaker-share-id=lkjueekWpiF6TG_CKuobFgezBMaoB6vMgBClqbBMSbI%3D
 
 Exploratory Data Analysis/Concept 2/Data Wrangler/Save to S3 with a SageMaker Processing Job:
 https://d-6c5ntrx69yhk.studio.us-east-1.sagemaker.aws/jupyter/default/lab?sagemaker-share-id=vmWZEtDpD7x2NXUzVkzz5lem-LO8iMQ2600jy-yjxck%3D
